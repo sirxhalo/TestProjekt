@@ -10,7 +10,7 @@ if is_woman:
 else:
     print("Sehr geehrter Herr " + name + ",")
 print("")
-print("Mein Name ist " + mein_name + ".")
+print("Mein Name ist " + my_name + ".")
 print("Ich bin " + age + " Jahre alt.")
 print("Ich komme aus " + city + ".")
 input("Bitte Beliebige Taste drücken...")
