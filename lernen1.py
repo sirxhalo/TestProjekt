@@ -1,7 +1,7 @@
 name = input("Bitte gebe den Namen ein: ")
-mein_name = "Tim"
-age = "16"
-city = "Müden Örtze"
+mein_name = "Max Mustermann"
+age = "20"
+city = "Musterstadt"
 
 is_woman = False
 
