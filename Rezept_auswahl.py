@@ -2,9 +2,9 @@ print("Rezept auswählen:")
 print("(1) Pfannkuchen")
 print("(2) Waffeln")
 print("(3) Käsekuchen")
-auswahl = input("Auswahl eingeben: ")
+selection = input("Auswahl eingeben: ")
 
-if auswahl == '1':
+if selection == '1':
     print("")
     print("Rezept: Pfannkuchen")
     print("")
@@ -17,11 +17,11 @@ if auswahl == '1':
     print("- 60ml Mineralwasser")
     print("- Etwas Speiseöl zum Ausbacken")
     input("Drücke eine Beliebige Taste um Fortzufahren...")
-if auswahl == '2':
+if selection == '2':
     print("")
     print("Rezept: Waffeln")
     input("Drücke eine Beliebige Taste um Fortzufahren...")
-if auswahl == '3':
+if selection == '3':
     print("")
     print("Rezept: Käsekuchen")
     input("Drücke eine Beliebige Taste um Fortzufahren...")
