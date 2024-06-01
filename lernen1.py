@@ -1,5 +1,5 @@
 name = input("Bitte gebe den Namen ein: ")
-mein_name = "Max Mustermann"
+my_name = "Max Mustermann"
 age = "20"
 city = "Musterstadt"
 
